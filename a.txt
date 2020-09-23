@@ -2,4 +2,10 @@ modified by myself
 new a by other
 qwe
 ert 
-new a by other 
+new a by other
+
+
+
+
+
+add new function()in 9.23 
