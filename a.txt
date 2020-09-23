@@ -8,14 +8,11 @@ new a by other
 
 
 
-<<<<<<< HEAD
 add new function()in 9.23 
 
 
 add function by other
-=======
 add new function()in 9.23
 
 
 add a new function by owner in 9.23 
->>>>>>> f1112677ab969d1abc4a72fb5b7b1d163aff086f
