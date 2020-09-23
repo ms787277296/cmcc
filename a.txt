@@ -9,3 +9,6 @@ new a by other
 
 
 add new function()in 9.23 
+
+
+add function by other
